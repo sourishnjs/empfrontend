@@ -1,0 +1,5 @@
+.log {
+  display: inline-flex;
+  flex-direction: column;
+  margin-top: auto;
+}
